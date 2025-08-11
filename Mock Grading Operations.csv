@@ -1,0 +1,51 @@
+Submission_ID,Customer_ID,Batch_ID,Card_Type,Service_Level,Submission_Channel,Grader,Grader_Experience_Level,Submission_Date,Completion_Date,Turnaround_Days,Error,Error_Reason,Customer_Feedback_Score,Base_Grading_Fee,Autograph_Flag,Oversized_Flag,Relabel_Flag,Review_Flag,Recase_Flag,Total_Grading_Fee
+S001,C2,B5,Sports,Base_No_Subgrades,Event,Dana,Junior,2025-01-04,2025-02-22,49,1,Label Error,1,14.95,0,0,0,0,0,14.95
+S002,C1,B2,YuGiOh,Priority,Mail-In,Charlie,Mid,2025-02-23,2025-02-25,2,0,N/A,2,124.95,0,1,0,0,1,142.95
+S003,C1,B4,Sports,Base_No_Subgrades,Mail-In,Alice,Senior,2025-02-15,2025-04-06,50,0,N/A,5,14.95,1,1,0,0,0,27.95
+S004,C2,B4,Magic,Base_Subgrades,Mail-In,Charlie,Junior,2025-04-09,2025-05-28,49,0,N/A,2,17.95,1,1,0,1,0,40.95
+S005,C3,B4,YuGiOh,Priority,Mail-In,Ethan,Senior,2025-03-23,2025-03-25,2,0,N/A,2,124.95,1,0,0,0,1,139.95
+S006,C10,B3,Pokemon,Express,Event,Dana,Junior,2025-02-04,2025-02-11,7,0,N/A,4,79.95,1,0,1,0,0,94.95
+S007,C10,B4,Magic,Priority,Online,Bob,Senior,2025-03-10,2025-03-13,3,0,N/A,5,124.95,1,0,0,0,0,129.95
+S008,C7,B4,YuGiOh,Base_Subgrades,Event,Charlie,Mid,2025-04-12,2025-06-06,55,0,N/A,5,17.95,0,0,1,1,0,37.95
+S009,C5,B5,Pokemon,Standard,Event,Alice,Mid,2025-02-25,2025-03-18,21,1,Data Entry Error,5,34.95,0,0,1,0,0,44.95
+S010,C6,B3,Pokemon,Priority,Online,Bob,Junior,2025-02-11,2025-02-14,3,1,N/A,1,124.95,0,1,0,0,0,132.95
+S011,C10,B4,Pokemon,Express,Event,Bob,Mid,2025-03-12,2025-03-20,8,0,N/A,3,79.95,1,1,1,1,0,112.95
+S012,C9,B2,Pokemon,Base_Subgrades,Online,Alice,Mid,2025-01-29,2025-03-16,46,1,Label Error,2,17.95,0,0,1,0,0,27.95
+S013,C10,B5,YuGiOh,Standard,Online,Dana,Junior,2025-03-27,2025-04-19,23,0,N/A,4,34.95,0,0,0,1,1,54.95
+S014,C2,B1,YuGiOh,Express,Event,Charlie,Senior,2025-02-22,2025-03-04,10,0,N/A,1,79.95,0,0,0,1,0,89.95
+S015,C2,B4,Sports,Express,Online,Ethan,Mid,2025-01-24,2025-02-02,9,0,N/A,1,79.95,0,0,0,1,1,99.95
+S016,C1,B4,Magic,Express,Mail-In,Charlie,Junior,2025-01-28,2025-02-07,10,1,Condition Misgrade,5,79.95,1,0,0,1,0,94.95
+S017,C1,B1,YuGiOh,Base_No_Subgrades,Event,Ethan,Junior,2025-03-16,2025-05-08,53,0,N/A,2,14.95,0,0,0,0,0,14.95
+S018,C10,B1,Sports,Base_Subgrades,Mail-In,Ethan,Senior,2025-02-21,2025-04-08,46,0,N/A,5,17.95,1,1,0,1,0,40.95
+S019,C8,B3,Sports,Standard,Online,Dana,Senior,2025-02-20,2025-03-13,21,0,N/A,5,34.95,0,0,0,1,0,44.95
+S020,C3,B4,Magic,Standard,Event,Ethan,Junior,2025-04-23,2025-05-13,20,0,N/A,1,34.95,1,0,0,1,0,49.95
+S021,C10,B2,Magic,Base_No_Subgrades,Online,Charlie,Junior,2025-04-06,2025-05-29,53,1,N/A,4,14.95,1,0,0,1,1,39.95
+S022,C5,B2,YuGiOh,Base_No_Subgrades,Event,Dana,Junior,2025-01-01,2025-02-20,50,0,N/A,5,14.95,0,0,0,0,0,14.95
+S023,C1,B3,Magic,Standard,Online,Charlie,Junior,2025-03-16,2025-04-09,24,0,N/A,2,34.95,0,0,1,1,0,54.95
+S024,C1,B2,Magic,Base_Subgrades,Mail-In,Bob,Junior,2025-04-21,2025-06-07,47,0,N/A,3,17.95,0,0,1,0,1,37.95
+S025,C4,B2,Sports,Base_Subgrades,Event,Bob,Mid,2025-01-26,2025-03-19,52,0,N/A,4,17.95,1,1,0,1,1,50.95
+S026,C5,B2,Magic,Priority,Online,Alice,Junior,2025-02-21,2025-02-24,3,1,N/A,4,124.95,1,1,1,0,1,157.95
+S027,C1,B5,Pokemon,Priority,Mail-In,Dana,Junior,2025-01-25,2025-01-28,3,0,N/A,1,124.95,1,1,0,1,1,157.95
+S028,C3,B2,YuGiOh,Express,Event,Dana,Senior,2025-02-11,2025-02-21,10,0,N/A,2,79.95,1,1,0,1,1,112.95
+S029,C8,B4,YuGiOh,Base_Subgrades,Event,Bob,Senior,2025-02-25,2025-04-20,54,0,N/A,5,17.95,1,0,0,1,1,42.95
+S030,C4,B2,Sports,Base_No_Subgrades,Online,Bob,Senior,2025-04-15,2025-06-02,48,0,N/A,4,14.95,0,1,1,0,1,42.95
+S031,C1,B1,YuGiOh,Express,Online,Bob,Junior,2025-02-21,2025-03-01,8,0,N/A,5,79.95,1,0,0,0,1,94.95
+S032,C9,B5,Magic,Base_Subgrades,Mail-In,Ethan,Senior,2025-04-13,2025-06-04,52,0,N/A,5,17.95,1,1,0,1,1,50.95
+S033,C9,B4,Pokemon,Standard,Mail-In,Dana,Senior,2025-04-07,2025-04-28,21,0,N/A,1,34.95,1,0,1,1,1,69.95
+S034,C3,B2,Sports,Priority,Mail-In,Dana,Junior,2025-01-11,2025-01-13,2,1,Data Entry Error,5,124.95,1,1,0,0,1,147.95
+S035,C1,B3,Magic,Express,Mail-In,Dana,Senior,2025-04-26,2025-05-03,7,0,N/A,5,79.95,0,1,0,1,1,107.95
+S036,C7,B2,YuGiOh,Express,Online,Ethan,Mid,2025-01-04,2025-01-14,10,0,N/A,5,79.95,0,1,0,0,1,97.95
+S037,C7,B3,Pokemon,Base_Subgrades,Mail-In,Charlie,Junior,2025-04-21,2025-06-12,52,1,Data Entry Error,4,17.95,1,1,1,0,1,50.95
+S038,C6,B2,Sports,Base_No_Subgrades,Event,Alice,Junior,2025-04-06,2025-05-29,53,0,N/A,1,14.95,0,0,0,0,0,14.95
+S039,C4,B4,Magic,Base_Subgrades,Mail-In,Bob,Junior,2025-03-02,2025-04-26,55,0,N/A,5,17.95,0,0,1,0,0,27.95
+S040,C4,B1,Pokemon,Standard,Online,Charlie,Mid,2025-03-15,2025-04-09,25,0,N/A,5,34.95,0,0,1,1,1,64.95
+S041,C7,B4,Sports,Base_No_Subgrades,Mail-In,Charlie,Mid,2025-03-06,2025-04-30,55,1,Condition Misgrade,2,14.95,1,0,1,1,1,49.95
+S042,C2,B3,YuGiOh,Express,Online,Dana,Mid,2025-04-16,2025-04-25,9,0,N/A,5,79.95,1,1,0,1,1,112.95
+S043,C6,B3,Magic,Base_Subgrades,Event,Alice,Mid,2025-03-04,2025-04-21,48,0,N/A,5,17.95,0,0,0,1,1,37.95
+S044,C8,B4,Sports,Priority,Online,Charlie,Senior,2025-04-08,2025-04-10,2,0,N/A,2,124.95,1,0,1,1,1,159.95
+S045,C9,B3,Magic,Priority,Event,Dana,Mid,2025-03-09,2025-03-12,3,0,N/A,3,124.95,1,1,0,0,0,137.95
+S046,C3,B2,Pokemon,Standard,Event,Dana,Senior,2025-01-16,2025-02-10,25,0,N/A,3,34.95,1,0,0,1,0,49.95
+S047,C3,B3,Sports,Standard,Online,Ethan,Junior,2025-01-23,2025-02-14,22,0,N/A,3,34.95,0,1,0,0,1,52.95
+S048,C1,B3,YuGiOh,Express,Online,Alice,Mid,2025-03-03,2025-03-13,10,0,N/A,4,79.95,1,0,0,0,0,84.95
+S049,C7,B5,Pokemon,Priority,Event,Dana,Junior,2025-02-08,2025-02-10,2,1,Condition Misgrade,4,124.95,1,1,1,0,0,147.95
+S050,C3,B2,Pokemon,Base_Subgrades,Event,Alice,Mid,2025-03-22,2025-05-09,48,0,N/A,2,17.95,0,1,1,1,1,55.95
